@@ -2,8 +2,11 @@
 Portafolio técnico anónimo de pruebas de ciberseguridad, OSINT y simulaciones de pentesting.
 # 🐟 5w0rdf15h – Portafolio Técnico Anónimo
 
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 ## 🧠 Sobre mí
-Ethical hacker anónimo. Simulo pruebas de penetración, realizo investigaciones OSINT y análisis de redes. Trabajo remoto, sin contacto personal, entregas profesionales.
+Ethical hacker anónimo. Simulo pruebas de penetración, realizo investigaciones OSINT y análisis de redes.  
+Trabajo 100 % remoto, sin contacto personal, con entregas técnicas documentadas.
 
 > No necesito tu identidad. Solo tu objetivo.  
 > Criptografía, análisis, silencio.
@@ -19,7 +22,7 @@ Prueba de vulnerabilidades OWASP Top 10 en entorno controlado.
 - Estado: 🔧 En desarrollo
 
 ### 2. 🛰️ OSINT – Análisis de dominio público (simulado)
-Investigación pasiva sobre infraestructura tecnológica de un sitio real (sin intrusión).  
+Investigación pasiva sobre la infraestructura tecnológica de un sitio real (sin intrusión).  
 - Técnicas: Whois, Shodan, Google Dorking, Recon-ng  
 - Objetivo: identificar vectores de ataque desde información pública  
 - Estado: 🔧 En desarrollo
@@ -29,19 +32,26 @@ Análisis de red LAN: mapeo, escaneo de puertos y detección de dispositivos exp
 - Herramientas: Nmap, Netdiscover, Wireshark  
 - Estado: 🔧 En desarrollo
 
-> ⚠️ Cada proyecto se realiza en entornos legales, simulados o de laboratorio.
+> ⚠️ Todos los proyectos se realizan en entornos legales, simulados o de laboratorio.
 
 ---
 
 ## 💬 Contacto
 
 - 📧 Correo: `5w0rdf15h@protonmail.com`
-- 🧾 Formato de entrega: Reportes técnicos en Markdown/PDF
+- 🧾 Entregas: Reportes técnicos en Markdown o PDF
 - 💰 Pagos: Bitcoin (BTC) o Avalanche (AVAX)
 
 ---
 
-## ⚙️ Disclaimer
+## ⚙️ Licencia
 
-Todo el contenido de este portafolio fue realizado en entornos legales, controlados o simulados.  
-No apoyo ni participo en actividades ilegales. No necesitas compartir información personal para contratar mis servicios.
+Este portafolio está bajo la licencia [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).  
+Puedes compartir y adaptar el contenido, siempre que me atribuyas como “5w0rdf15h” y **no lo uses con fines comerciales**.
+
+---
+
+## 🛡️ Aviso Legal
+
+Este repositorio es exclusivamente con fines educativos y demostrativos.  
+No apoyo ni participo en actividades ilegales. No se requiere información personal para ningún tipo de contacto profesional.
